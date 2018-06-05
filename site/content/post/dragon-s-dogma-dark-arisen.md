@@ -6,7 +6,7 @@ description: >-
   action combat experience.
 image: /img/ss.jpg
 ---
-![null](/img/about-direct-sourcing.jpg)
+![null](/img/ss1.jpg)
 
 Players embark on an epic adventure in a rich, living world with three AI companions, known as Pawns. These partners fight independently, demonstrating prowess and ability that they have developed based on traits learned from each player. 
 
